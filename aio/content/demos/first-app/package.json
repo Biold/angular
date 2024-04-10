@@ -5,7 +5,7 @@
   "dependencies": {
     "@angular/common": "^16.0.0",
     "@angular/compiler": "^16.0.0",
-    "@angular/core": "^16.0.0",
+    "@angular/core": "^17.3.4",
     "@angular/platform-browser": "^16.0.0",
     "rxjs": "^7.8.0",
     "tslib": "^2.5.3",
@@ -34,7 +34,7 @@
     "eslint": "^8.40.0",
     "jasmine-core": "~4.5.0",
     "jasmine-spec-reporter": "~7.0.0",
-    "karma": "~6.4.1",
+    "karma": "~6.4.3",
     "karma-chrome-launcher": "~3.1.0",
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
